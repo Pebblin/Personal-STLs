@@ -1,5 +1,5 @@
 # Personal-STLs
-Collection of models I created for personal use. Click the dropdowns for more details on what's in each folder.
+Collection of models (mostly) I created for personal use. Click the dropdowns for more details on what's in each folder.
 
 <details>
 <summary>102b Project</summary>
@@ -11,6 +11,12 @@ Collection of models I created for personal use. Click the dropdowns for more de
 <summary>A1 Mini Top Mount</summary>
 <br>
   Custom spool mount for the Bambu Lab A1 Mini. Solves the issue of the extruder losing grip on the filament when the spool starts running low.
+</details>
+
+<details>
+<summary>A1 Mini Shark Plastic Waste Catcher</summary>
+<br>
+  WIP :)
 </details>
 
 <details>
