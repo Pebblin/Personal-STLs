@@ -24,3 +24,9 @@ Collection of models (mostly) I created for personal use. Click the dropdowns fo
 <br>
   Here primarily for archiving purposes. Incldues a PDF with a BOM, parts list, tolerances, material choices, and fully toleranced drawings.
 </details>
+
+<details>
+<summary>iPhone 16 Pro Flat Phone Platform</summary>
+<br>
+  Quick thing made for a friend so he would have a flat surface to place his phone on for games. Compatible with Apple magsafe charger.
+</details>
